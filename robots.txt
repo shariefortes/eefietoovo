@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://loongieda.ryabov.xyz/sitemap.xml
